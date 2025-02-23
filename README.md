@@ -4,7 +4,12 @@
 - 🔭 I’m currently working on [APlicaion web](https://github.com/BraulioDamian/El-Toston-Desarrollo-Backend-y-FrontEnd.git)
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
+🎓 Estudiante de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Oaxaca.  
+💡 Interesado en el desarrollo web, backend y la aplicación de patrones de diseño en software.  
+🚀 Siempre en busca de nuevos desafíos y aprendizaje continuo.
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
